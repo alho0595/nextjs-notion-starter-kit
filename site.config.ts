@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ALHO OFFICE',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/alho99/ALHO-Office-293859789c024123b6f2ddb712673174',
   author: 'ALHO',
 
   // open graph metadata (optional)

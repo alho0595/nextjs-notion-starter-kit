@@ -20,9 +20,6 @@ export default siteConfig({
   twitter: '',
   github: '',
   linkedin: '',
-  taobao:'https://m.tb.cn/h.UIAefeD',
-  xianyu:'https://m.tb.cn/h.UtRxxKj?tk=KiZkdPJNJWz',
-  redbook:'https://www.xiaohongshu.com/vendor/6219ccced20cbb00017ca6f8?naviHidden=yes&xhsshare=CopyLink&appuid=62009994000000001000d6e8&apptime=1681270236',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
